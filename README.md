@@ -4,6 +4,10 @@
 
 This document provides comprehensive information about the backend API for managing AudioBooks and Courses. The API is built using Node.js, Express, and MongoDB. It incorporates features such as authentication, authorization, password hashing, and various endpoints for managing users, courses, and audiobooks.
 
+**The latest version of the AudioBooks/Courses Backend API is deployed and accessible at the following link:**
+[Deployed API Link](https://hyperface-audiobook-api.onrender.com)
+
+
 ## Authentication and Authorization
 
 The API utilizes authentication to secure user access. Users must register and log in to perform certain actions. Additionally, authorization is implemented to ensure that users have the appropriate permissions for specific operations.
