@@ -7,6 +7,7 @@ This document provides comprehensive information about the backend API for manag
 **The latest version of the AudioBooks/Courses Backend API is deployed and accessible at the following link:**
 [Deployed API Link](https://hyperface-audiobook-api.onrender.com)
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/28437144-b7f1cbf0-f11e-4c3d-b6e1-700e27bd9504?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28437144-b7f1cbf0-f11e-4c3d-b6e1-700e27bd9504%26entityType%3Dcollection%26workspaceId%3D1905c887-e3de-40c0-b38b-3e6813bb59f9)
 
 ## Authentication and Authorization
 
